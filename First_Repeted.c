@@ -2,10 +2,10 @@
 
 int main()
 {
-	int i,j,n;
+	long long int i,j,n;
 	int ind,ele;
-	scanf("%d",&n);
-    long long int arr[n];
+	scanf("%lld",&n);
+        long long int arr[n];
 		
 	for(i=0; i<n; i++)
 	{
